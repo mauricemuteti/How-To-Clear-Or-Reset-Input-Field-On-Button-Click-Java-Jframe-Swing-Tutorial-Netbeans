@@ -4,6 +4,7 @@ More details - http://mauricemuteti.info/how-to-clear-input-field-on-button-clic
 Video tutorial - https://www.youtube.com/watch?v=m2_8HARrVHY
 
  Clear Input Fields Function
+ <pre>
 	<code>
 private void clearFields() {
 //clears/Resets textfield
@@ -18,3 +19,4 @@ private void clearFields() {
     jLabelImage.setIcon(null);
 }
 </code>
+</pre>
